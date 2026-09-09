@@ -1,0 +1,31 @@
+# Privacy Policy
+
+Last updated: 9 September 2026
+
+This application is used solely by the owner for personal home automation purposes.
+
+## Information Collected
+
+This application may access Google account information and Google Smart Device Management (SDM) data required to communicate with Google Nest devices.
+
+No personal information is collected, stored, shared, sold, or transferred to any third party.
+
+## Use of Information
+
+Any data accessed through Google's APIs is used exclusively to enable personal home automation features, including viewing device status and interacting with Google Nest devices.
+
+## Data Storage
+
+Authentication tokens and configuration data are stored only within the owner's private Home Assistant and Scrypted installations.
+
+No information is transmitted to external services other than Google's APIs as required for device communication.
+
+## Data Sharing
+
+No data is shared with third parties.
+
+## Contact
+
+For questions regarding this application, contact:
+
+your-email@example.com
